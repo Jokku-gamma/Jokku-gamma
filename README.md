@@ -53,6 +53,6 @@ Here are some of the technologies I'm proficient with and currently exploring:
 Let's build something amazing together! Find me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/joel-kurian-abraham)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joelkurianabraham06020127@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelkurianabraham06020127@gmail.com)
 
 ### Thanks for stopping by! ✨
