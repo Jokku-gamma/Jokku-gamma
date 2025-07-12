@@ -57,4 +57,4 @@ Let's build something amazing together! Find me on:
 
 ### Thanks for stopping by! ✨
 
-[![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+[![Visitor Count](https://profile-counter.glitch.me/Jokku-gamma/count.svg)
