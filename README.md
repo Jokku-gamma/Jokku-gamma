@@ -57,5 +57,3 @@ Let's build something amazing together! Find me on:
 
 ### Thanks for stopping by! ✨
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Jokku-gamma)
-
