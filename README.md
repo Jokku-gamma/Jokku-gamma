@@ -56,3 +56,5 @@ Let's build something amazing together! Find me on:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joelkurianabraham06020127@gmail.com)
 
 ### Thanks for stopping by! ✨
+
+[![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
